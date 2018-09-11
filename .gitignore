@@ -1,0 +1,16 @@
+/.project
+/build
+.classpath
+.DS_Store
+*.class
+*.jar
+*.jar.*
+*.FFDC
+*.gif
+/target
+/FFDC
+*.log
+*.log.*
+/.settings
+*.factorypath
+*.jks
